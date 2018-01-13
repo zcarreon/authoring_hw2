@@ -1,0 +1,28 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "grunt homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcarreon/authoring_hw2.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Zachary Carreon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcarreon/authoring_hw2/issues"
+  },
+  "homepage": "https://github.com/zcarreon/authoring_hw2#readme",
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
